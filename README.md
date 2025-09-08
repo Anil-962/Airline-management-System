@@ -50,32 +50,38 @@ NB: Make sure dependencies are installed for the project.
 
 - Login Page:
 
-<img width="380" height="234" alt="Screenshot 2025-05-08 225838" src="https://github.com/user-attachments/assets/97782bc5-6723-4e8a-ac60-56de3852178a" />
+<img width="385" height="236" alt="Screenshot 2025-09-08 183635" src="https://github.com/user-attachments/assets/6f870691-a93b-410c-baf5-c57574904276" />
+
 
 
 - Airline Management System Dashboard:
 
-<img width="1366" height="768" alt="Screenshot 2025-05-08 225851" src="https://github.com/user-attachments/assets/7f2aaa47-2b17-4d43-997d-24234179e4fd" />
+<img width="1365" height="710" alt="Screenshot 2025-09-08 183654" src="https://github.com/user-attachments/assets/999e9d9e-3f7f-4d9c-bd6e-a11871f73fc1" />
+
 
 
 
 - Add Customer Page:
 
-<img width="878" height="587" alt="Screenshot 2025-05-08 230056" src="https://github.com/user-attachments/assets/ce200b47-9d0e-4c0f-8b79-117c087e8988" />
+<img width="888" height="539" alt="Screenshot 2025-09-08 183724" src="https://github.com/user-attachments/assets/c2d55557-cdf0-4ab0-8611-16285109cda6" />
+
 
 
 - Cancel Flight Page:
 
-<img width="723" height="400" alt="Screenshot 2025-05-08 230439" src="https://github.com/user-attachments/assets/7199bd13-14dc-410c-a67f-60c87047b0e0" />
+<img width="779" height="428" alt="Screenshot 2025-09-08 183739" src="https://github.com/user-attachments/assets/86b6061c-a764-4614-80c8-271f995fd271" />
+
 
 
 - Flight Information Page:
 
-<img width="876" height="323" alt="Screenshot 2025-05-08 225946" src="https://github.com/user-attachments/assets/edf891b2-3e95-4070-bda6-7e3a5f9e2e56" />
+<img width="785" height="207" alt="Screenshot 2025-09-08 183712" src="https://github.com/user-attachments/assets/bf5337f8-a0fd-46fb-9c30-93b669daebc3" />
+
 
 
 - Boarding Pass:
-  <img width="943" height="386" alt="Screenshot 2025-05-08 230517" src="https://github.com/user-attachments/assets/bb357d10-ec21-4f9b-a6e8-f028c1ef4b99" />
+  <img width="971" height="422" alt="Screenshot 2025-09-08 183803" src="https://github.com/user-attachments/assets/a8130a24-587e-4782-9a40-612937e7cdbf" />
+
 
 
 
